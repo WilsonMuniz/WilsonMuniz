@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WilsonMuniz
+Ola! Eu sou Wilso Muniz
 - 👀 I’minterested in Vagas de emprego na area de desenvolvimentto.
 - 🌱 I’m currently learning  MYSQL e .NET
 - 💞️ I’m looking to collaborate on  em algum rojeto onde possa ajudar aumentar minha experiencia na area de desenvolve.
