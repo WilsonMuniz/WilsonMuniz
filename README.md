@@ -1,5 +1,5 @@
 # Ola!!! Eu sou Wilson Muniz
-### Apaixonado por tecnologia, educação e mudar a vida das pessoas através da programação.
+### Apaixonado por tecnologia, educação e preparando para mudar a vida das pessoas através da programação.
 
 ![Wilson-GitHub stats](https://github-readme-stats.vercel.app/api?username=WilsonMuniz&show_icons=true&theme=dracula)
 
