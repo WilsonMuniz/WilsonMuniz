@@ -18,11 +18,11 @@
 
 ## Últimas certificações:
 
-* [Certificação Linux Experience](https://hermes.digitalinnovation.one/certificates/cover/1D7CB3DC.jpg)<br/>
+* [Linux Experience](https://hermes.digitalinnovation.one/certificates/cover/1D7CB3DC.jpg)<br/>
 * [Servidor de Banco de Dados com Linux](https://hermes.digitalinnovation.one/certificates/cover/F4216C67.jpg)<br/>
 * [Servidor Web (Apache)](https://hermes.digitalinnovation.one/certificates/cover/147CFF9F.jpg)<br/>
-* [Certificação Docker: Utilização Prática no Cenário de Microsserviços](https://hermes.digitalinnovation.one/certificates/cover/DF7D15EB.jpg)<br/>
-* [Database Experience](https://hermes.digitalinnovation.one/certificates/cover/929BBD12.jpg)<br/>
+* [Docker: Utilização Prática no Cenário de Microsserviços](https://hermes.digitalinnovation.one/certificates/cover/DF7D15EB.jpg)<br/>
+* [Database Experience MySQL](https://hermes.digitalinnovation.one/certificates/cover/929BBD12.jpg)<br/>
 * [Linguagem de Programação Python](https://hermes.digitalinnovation.one/certificates/cover/0AD65262.jpg)<br/>
 
 ## Último Bootcamp:
